@@ -9,9 +9,15 @@ Local DB
   	- [ ] 存成哪種資料類型
   	- [ ] SQL
   	- [ ] NoSQL
+
+
 Analysis
   	- [ ] 如何分析 
+
+
 Visualization
-		- [ ] 如何呈現資料
+	- [ ] 如何呈現資料
+
+
 UI 
-		- [ ] 互動介面
+	- [ ] 互動介面
